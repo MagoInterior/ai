@@ -1,5 +1,11 @@
 # Wa-OpenAI
 
+### `—◉ 🌌 ACTIVAR EN REPLIT 🌌`
+
+[![Run on Repl.it](https://repl.it/badge/github/MagoInterior/ai)](https://repl.it/github/MagoInterior/ai) 
+
+
+
 ***WhatsApp OpenAI Create with NodeJS Using Library [Baileys](https://github.com/adiwajshing/Baileys)***
 
 ## BACA DULU
